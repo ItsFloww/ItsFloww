@@ -16,7 +16,7 @@
 - 💻 Passionate about **web development** & clean, user-friendly design
 - 🌱 Currently learning **modern frameworks & scalable backend solutions**
 - 🚀 Goal: Become a **full-stack web developer** building impactful products
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+ <!-- Databases & Tools -->- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 ---
 
 ## 🛠 Tech Stack
