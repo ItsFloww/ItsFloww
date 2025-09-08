@@ -30,14 +30,14 @@
 </p>
 
 ---
-
+ <!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItsFloww&show_icons=true&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsFloww&theme=transparent&hide_border=true" height="150" />
 </p>
-
+-->
 ---
 
 ## 📫 Connect with Me
